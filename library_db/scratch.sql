@@ -1,0 +1,6 @@
+COMMIT;
+
+ROLLBACK;
+
+unlock tables;
+
